@@ -26,5 +26,5 @@ Currently expanding my skills through hands-on projects and continuous learning.
 
 ## 📫 Get in touch
 - 📍 Based in Landau (Rhineland-Palatinate), Germany  
-- 📧 [barison@gmx.de](mailto:barison@gmx.de)  
+- 📧 [Mail](mailto:barison@gmx.de)  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/moreno-barison/)
