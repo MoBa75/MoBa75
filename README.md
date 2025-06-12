@@ -10,10 +10,6 @@ Currently expanding my skills through hands-on projects and continuous learning.
 - 🧩 Frontend Basics: HTML, CSS (used in Flask templates)
 - 🛠️ Tools: Git, GitHub, VS Code, Docker (beginner)
 
-## 🎯 Projects
-- 🎬 [MovieWebApp](https://github.com/moreno-barison/moviewebapp): Flask-based movie collection manager with OMDb API integration  
-- 📚 [BookAlchemy](https://github.com/moreno-barison/bookalchemy): A book database manager with author linking and CRUD functionality
-
 ## 📚 Currently Learning
 - RESTful API design  
 - Test-driven development (TDD)  
