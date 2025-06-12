@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moreno Barison
+## 👋 Hi, I'm Moreno Barison
 
 I'm a backend developer focused on building clean, maintainable systems using Python and Flask.  
 Currently expanding my skills through hands-on projects and continuous learning.
